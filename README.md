@@ -4,7 +4,7 @@ Take home coding test for Fetch Rewards
 #Question 1 - Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
 
 Refer to Fetch_Data_Analysis.ipynb for the data wrangling and conversion of JSON files to readable dataframes
-ER Diagram can be found in the repo with the name Fetch_ER_Diagram.jpeg
+ER Diagram can be found in the repo with the name Fetch_ERDiagram.jpeg
 
 JSON files have been normalized to attain a tabular format, columns with nested information are exploded to separate columns and merged into the original dataframes. Additionally, the JSONs have been saved in spearate lines for each record, so the file is being read line-by-line and then appended to a dataframe.
 
