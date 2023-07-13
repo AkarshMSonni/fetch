@@ -3,7 +3,7 @@ Take home coding test for Fetch Rewards
 
 Question 1 - Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
 Refer to Fetch_Data_Analysis.ipynb for the data wrangling and conversion of JSON files to readable dataframes
-ER Diagram can be found in the repo with the name Fetch_Data_Model.png
+ER Diagram can be found in the repo with the name Fetch_ER_Model.jpeg
 
 Question 2 - Write a query that directly answers a predetermined question from a business stakeholder
 SQL Query can be found in the Fetch_Data_Analysis.ipynb notebook. A PDF file containing the query is also available at Fetch_SQL_Query.pdf
